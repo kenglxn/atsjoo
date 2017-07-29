@@ -23,6 +23,11 @@ You will need the following things properly installed on your computer.
 * `ember serve`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 
+### Running using ember cordova
+use `ember cdv:serve` and `ember cdv:proxy run ios --emulator`.
+Also see http://embercordova.com/pages/workflow/building and the rest of the docs.
+
+
 ### Code Generators
 
 Make use of the many generators for code, try `ember help generate` for more details
